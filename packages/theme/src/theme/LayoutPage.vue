@@ -11,12 +11,12 @@
     <template #nav-screen-content-before>777</template>
     <template #nav-screen-content-after>888</template>
     <!-- ===========layout: 'page'============== -->
-    <template #page-top>999</template>
+    <template #page-top>weee</template>
     <template #page-bottom>aaa</template>
     <!-- ===========layout: 'home'============== -->
     <template #home-hero-before>bbb</template>
     <template #home-hero-info>ccc</template>
-    <template #home-hero-image>ddd</template>
+    <template #home-hero-image>we</template>
     <template #home-hero-after>eee</template>
     <template #home-features-before>fff</template>
     <template #home-features-after>ggg</template>
