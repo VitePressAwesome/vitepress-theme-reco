@@ -1,5 +1,5 @@
 *.sh
-node_modules
+*/node_modules/*
 lib
 coverage
 *.md
@@ -8,3 +8,4 @@ coverage
 *.ttf
 src/index.ts
 dist
+.history

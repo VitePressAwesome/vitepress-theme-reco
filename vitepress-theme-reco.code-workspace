@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "✨  root",
+			"path": "."
+		},
+		{
+			"name": "📦  docs (CORE)",
+			"path": "packages/docs"
+		},
+		{
+			"name": "📦  @talexjs/theme (CORE)",
+			"path": "packages/theme"
+		}
+	],
+	"settings": {}
+}

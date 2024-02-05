@@ -9,11 +9,11 @@
     "preview": "vitepress preview"
   },
   "dependencies": {
-    "vue": "^3.2.47"
+    "vue": "^3.4.15"
   },
   "devDependencies": {
-    "@talexjs/theme": "workspace:^1.0.0",
-    "vitepress": "^1.0.0-alpha.65"
+    "@talexjs/theme": "workspace:*",
+    "vitepress": "1.0.0-rc.41"
   },
   "license": "MIT"
 }
