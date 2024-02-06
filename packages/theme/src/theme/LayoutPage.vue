@@ -37,9 +37,9 @@
   </Layout>
 </template>
 <script lang="ts" setup>
-import Theme from 'vitepress/theme';
-import { useData } from 'vitepress';
-const { Layout } = Theme;
-const { page, frontmatter } = useData();
-console.log('page', page, frontmatter);
+  import Theme from 'vitepress/theme'
+  import { useData } from 'vitepress'
+  const { Layout } = Theme
+  const { page, frontmatter } = useData()
+  console.log('page', page, frontmatter)
 </script>
